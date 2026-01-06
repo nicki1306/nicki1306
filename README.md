@@ -67,6 +67,3 @@ Diseño Responsive: Interfaz adaptada totalmente para dispositivos móviles.
 
 ## 📫 Conectemos:
 - LinkedIn: (https://www.linkedin.com/in/nicole-cianci-65197884/)
-
-![Tu nombre GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicki1306&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=nicki1306&layout=compact&theme=radical)
