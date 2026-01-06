@@ -54,7 +54,7 @@ CSS / Styled Components: Animaciones de entrada/salida y burbujas de diálogo pe
 
 Context API / Redux: Para manejar el historial de la conversación y el estado del chatbot.
 
-Integración: (Si usaste alguna) Conexión con Dialogflow, OpenAI o un backend propio en Node.js.
+Integración: OpenAI o un backend propio en Node.js.
 
 ⚙️ Funcionalidades Clave
 Lógica Condicional: El bot responde basándose en opciones seleccionadas por el usuario (Árbol de decisión).
