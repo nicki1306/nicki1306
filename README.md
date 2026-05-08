@@ -1,69 +1,48 @@
-# ¡Hola! Soy Nicole, me dicen nicki👋 
+# ¡Hola! Soy Nicole 👋
 
-### 📊 Estudiante de Licenciatura en Ciencia de Datos | Desarrollador Fullstack Jr.
+📊 **Junior Data Analyst** | Python · SQL · Power BI  
+📍 En transición hacia el análisis de datos 
 
-Actualmente estoy en 2do año de la carrera, apasionado por transformar datos crudos en decisiones estratégicas y construir aplicaciones web sólidas que los respalden.
+## 🎯 Sobre mí
 
----
+Soy profesional con más de 15 años de trayectoria laboral, actualmente enfocada en el mundo de los datos. Mi formación combina:
 
-## 🚀 Lo que estoy haciendo
-- 🛠️ Construyendo proyectos que unen el Análisis de Datos con el Desarrollo Web.
-- 📚 Profundizando en modelos estadísticos y algoritmos de Machine Learning.
-- 💼 Buscando mi primera oportunidad laboral para aportar valor en entornos remotos.
+- 📈 **Análisis de Datos**: Formación en Digital House (Python, SQL, Power BI, storytelling con datos)
+- 🎓 **Ciencia de Datos**: Licenciatura en curso (Universidad CAECE)
+- 💻 **Programación**: Tecnicatura en Programación (UTN) + 4+ años como Desarrolladora Full Stack
+- 📊 **Negocio**: Estudios en Administración de Empresas (UNMdP)
 
-## 🛠️ Tecnologías y Herramientas
-- Data Science: Python (Pandas, Numpy, Scikit-learn), SQL, Power BI.
-- Frontend: HTML5, CSS3, JavaScript, React.
-- Backend: Node.js / Python (FastAPI/Flask).
-- Herramientas: Git, GitHub, Docker.
+Esa combinación me permite no solo analizar datos, sino entender el contexto de negocio detrás de ellos.
 
-## 📈 Mis Proyectos Destacados
-1. Analítica de Fidelización Gastronómica: Este proyecto surge de una problemática real: un bar con clientela histórica que no lograba mantener la recurrencia ni atraer a esos clientes en días de baja demanda (días de semana).
+## 🚀 Proyectos Destacados
 
-El objetivo fue diseñar una estrategia basada en datos para identificar patrones de consumo y automatizar la captación mediante promociones segmentadas en redes sociales.
+### [Análisis de Clientes - Sector Gastronómico](https://github.com/nicki1306/analisis-clientes-bares)
+Estrategia de fidelización basada en datos para un bar con clientela histórica.
 
-🛠️ Tecnologías Utilizadas
-Python: Procesamiento y limpieza de datos.
+- **Análisis RFM** (Recencia, Frecuencia, Valor Monetario) para segmentar clientes
+- Identificación de clientes "perdidos" y horarios de baja demanda
+- Dataset estructurado para campañas segmentadas en Meta Ads
+- **Tecnologías**: Python, Pandas, NumPy, Matplotlib, Seaborn, SQL
 
-Pandas / Numpy: Análisis exploratorio (EDA).
+### [Apex3](https://github.com/nicki1306/Apex3)
+Consultoría en análisis de datos y desarrollo de soluciones web para emprendimientos locales.
 
-Matplotlib / Seaborn: Visualización de horas pico y comportamiento de clientes.
+## 🛠️ Stack Tecnológico
 
-SQL: Gestión de base de datos de clientes y consumos.
+**Data Science:**  
+Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn · SQL · PostgreSQL · Power BI · Jupyter Notebook
 
-💡 Solución Propuesta
-Segmentación de Clientes: Identificación de clientes "perdidos" (aquellos que no asistieron en los últimos 3 meses) mediante análisis RFM (Recencia, Frecuencia, Valor Monetario).
+**Desarrollo Web (base previa):**  
+JavaScript · React · Node.js · HTML · CSS
 
-Análisis de "Días Valle": Se detectó que la mayor capacidad ociosa ocurría de martes a jueves.
+**Herramientas:**  
+Git · GitHub
 
-Estrategia de Conversión: Creación de un dataset para campañas de Meta Ads/Instagram enfocadas en enviar cupones de descuento específicos para cenas en días de semana a la audiencia segmentada.
 
-📈 Resultados Esperados
-Incremento de la tasa de retorno de clientes antiguos.
+## 📫 Contacto
 
-Optimización de la ocupación del local en días de baja demanda.
+- 💼 [LinkedIn](https://www.linkedin.com/in/nicole-cianci-65197884/)
+- 📧 nickii.cn@hotmail.com
 
-Base de datos depurada lista para futuras campañas de Email Marketing o Ads.
 
-2.web para empresa de venta de softaware: Desarrollo de un asistente virtual (Chatbot) integrado en una plataforma de venta de software. El objetivo principal fue automatizar el soporte de primer nivel y guiar a los usuarios en la selección del producto adecuado según sus necesidades técnicas.
-
-🛠️ Stack Tecnológico (Front-end Focus)
-React / JavaScript: Para la interfaz dinámica del chat.
-
-CSS / Styled Components: Animaciones de entrada/salida y burbujas de diálogo personalizadas.
-
-Context API / Redux: Para manejar el historial de la conversación y el estado del chatbot.
-
-Integración: OpenAI o un backend propio en Node.js.
-
-⚙️ Funcionalidades Clave
-Lógica Condicional: El bot responde basándose en opciones seleccionadas por el usuario (Árbol de decisión).
-
-Persistencia: El chat recuerda el estado de la conversación incluso si el usuario recarga la página.
-
-Diseño Responsive: Interfaz adaptada totalmente para dispositivos móviles.
-
----
-
-## 📫 Conectemos:
-- LinkedIn: (https://www.linkedin.com/in/nicole-cianci-65197884/)
+&gt; *"Transformar datos crudos en decisiones estratégicas."*
